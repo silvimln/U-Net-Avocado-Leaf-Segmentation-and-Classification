@@ -1,1 +1,1 @@
-# U-Net-Avocado-Leaf-Segmentation-adn-Classification
+# U-Net-Avocado-Leaf-Segmentation-and-Classification
